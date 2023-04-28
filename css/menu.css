@@ -1,0 +1,70 @@
+.main-wrapper {
+    height: 100vh;
+    background-color: rgb(208, 33, 33);
+}
+
+.section{
+    margin: 0;
+    height: 100%;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 7em;
+}
+
+.menu a {
+    font-weight: 100;
+}
+
+.roundItem{
+    width: 22px;
+    height: 22px;
+    border-radius: 100%;
+    position: relative;
+}
+
+.lineUp{
+    width: 26px;
+    height: 4px;
+    background-color: black;
+    position: absolute;
+    transform: rotate(90deg);
+}
+
+.year{
+    position: absolute;
+    right: 25px;
+    font-size: 0.8em;
+}
+
+.timeline{
+    margin-left: 5em;
+}
+
+.col-8,.col-4{
+    background-color: rgb(208, 33, 33);
+}
+
+
+.col1{
+    background-color: rgb(169, 9, 9);
+}
+
+.text-decoration-none{
+    color:white
+}
+
+.text-decoration-none{
+    font-weight: 550;
+}
+.new{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.section-row-align-items-centerposition-fixed{
+    color:white;
+}
+
